@@ -1,4 +1,7 @@
 # Ignore .pyc files
 *.pyc
 *.swp
+*.log
+*.pot
+*.pyc
 local_settings.py
